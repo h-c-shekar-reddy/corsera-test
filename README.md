@@ -7,7 +7,6 @@ This repository contains my work and projects for the Web Development course on 
 
 - [Course Overview](#course-overview)
 - [Projects](#projects)
-- [Setup Instructions](#setup-instructions)
 - [Resources](#resources)
 - [License](#license)
 
@@ -36,10 +35,3 @@ This Coursera course focuses on building a strong foundation in web development.
 3. **Project 3: Server-Side Development**
    - Explore server-side development using Node.js or another back-end framework.
    - Build and deploy a server-side application.
-
-## Setup Instructions
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/web-development-coursera.git
